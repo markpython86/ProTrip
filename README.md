@@ -49,10 +49,10 @@
 ## Main Screen
 1. Login screen.
 2. Destination input.
-* Food choices
-* Gas prices
-* Local Events
-* Favorites - Search Next Pit Stop
+    * Food choices
+    * Gas prices
+    * Local Events
+    * Favorites - Search Next Pit Stop
 
 <a name="technologies"></a>
 ## Technologies
