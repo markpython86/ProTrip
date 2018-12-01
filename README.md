@@ -1,5 +1,5 @@
 # Pit Stop
-----------
+
 
 ## Table of Contents 
 1. [Target Audience](#target)
