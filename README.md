@@ -11,7 +11,7 @@
 7. [Technologies](#technologies)
 
 
-![MainDisplay](/assets/images/display-readme.png)
+![MainDisplay](/assets/images/display-readme.jpg)
 <a name="target"></a>
 ## Target Audience
 * Road trippers who want to want best local food options and the best gas prices across all of their pit stops.
