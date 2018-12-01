@@ -16,6 +16,16 @@
 ## Target Audience
 * Road trippers who want to want best local food options and the best gas prices across all of their pit stops.
 
+<a name="display"></a>
+## Main Screen
+1. Login screen.
+2. Destination input.
+    * Food choices
+    * Gas prices
+    * Local Events
+    * Favorites - Search Next Pit Stop
+
+
 <a name="problems"></a>
 ## Problems Addressed
 * Finding cheap gas prices while on a road trip is challenging if you don't have a gasbuddy app.
@@ -45,14 +55,6 @@
 * When done the user is able to search for the next pit stop.
 
 
-<a name="display"></a>
-## Main Screen
-1. Login screen.
-2. Destination input.
-    * Food choices
-    * Gas prices
-    * Local Events
-    * Favorites - Search Next Pit Stop
 
 <a name="technologies"></a>
 ## Technologies
